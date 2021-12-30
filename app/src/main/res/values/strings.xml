@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Launcher</string>
+    <string name="search_app">Search App</string>
+    <string name="appinsalled">App Uninstalled</string>
+    <string name="appuninstalled">App Installed</string>
+    <string name="brpackage">package</string>
+</resources>
